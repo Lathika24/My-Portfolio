@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.9982230b.css",
+    "main.js": "/My-Portfolio/static/js/main.4ca3c5fd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/My-Portfolio/static/media/avatar.da57b865a176b89192ed.png",
+    "static/media/college.jpg": "/My-Portfolio/static/media/college.2fbc1c662081b3af6d48.jpg",
+    "static/media/aiot1.png": "/My-Portfolio/static/media/aiot1.49e16537850500671c85.png",
+    "static/media/trainer.jpg": "/My-Portfolio/static/media/trainer.a0059d815029ee7de535.jpg",
+    "static/media/NAGA LATHIKA KOMMINENI_RESUME.pdf": "/My-Portfolio/static/media/NAGA LATHIKA KOMMINENI_RESUME.300df2c870b0a56ea084.pdf",
+    "static/media/todo1.jpg": "/My-Portfolio/static/media/todo1.39b5e0fd59feff4bb78e.jpg",
+    "static/media/Hand coding-rafiki.svg": "/My-Portfolio/static/media/Hand coding-rafiki.0e1528e87b5d39b22524fe0a191ee24d.svg",
+    "static/media/invy.jpg": "/My-Portfolio/static/media/invy.7371625606425c97450d.jpg",
+    "static/media/portfolio.png": "/My-Portfolio/static/media/portfolio.f30168336a790d682d2a.png",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.9982230b.css.map": "/My-Portfolio/static/css/main.9982230b.css.map",
+    "main.4ca3c5fd.js.map": "/My-Portfolio/static/js/main.4ca3c5fd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9982230b.css",
+    "static/js/main.4ca3c5fd.js"
+  ]
+}
